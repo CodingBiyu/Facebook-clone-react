@@ -1,0 +1,23 @@
+.button {
+  /* margin: 30px; */
+  color: white;
+  padding: 1rem 1.8rem;
+  border-radius: 8px;
+  font-size: 33px;
+  font-weight: 600;
+  width: 540px;
+  height: 16%;
+  border: none;
+  cursor: pointer;
+}
+
+.Login-button {
+  background-color: #0866ff;
+}
+
+.bg-green {
+  background-color: #42b72a;
+  width: 55%;
+  font-size: 25px;
+  padding: 1rem;
+}
